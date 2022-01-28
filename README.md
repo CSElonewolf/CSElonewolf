@@ -9,8 +9,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the Government College of Engineering and Textile Technology,Berhampore.\
-🌱 &nbsp;I'm on track for learning more about Full stack Web Development, Systems Design,Devops and Cloud Architecture.\
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Government College of Engineering and Textile Technology,Berhampore.\
+🌱 &nbsp;I'm on track for learning more about Full stack Web Development, Systems Design, Devops and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue technical Blog Writing as hobbies/side hustles and like to mentor juniors.\
 💬 &nbsp;Feel free to reach out to me for collaboration, or just for some interesting discussion over DS & Algorithm questions.\
 ✉️ &nbsp;You can shoot me an email at devkantgorai1@gmail.com or devkant.gorai@gcettb.ac.in ! I'll try to respond as soon as I can.\
@@ -22,19 +22,19 @@
 	<a href="https://www.linkedin.com/in/devkant-gorai/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/Asmit_2952">
+<!-- 	<a href="https://twitter.com/Asmit_2952">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-	<a href="https://www.instagram.com/asmitmalakannawar/">
+	</a> -->
+<!-- 	<a href="https://www.instagram.com/asmitmalakannawar/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-	</a>
-	<a href="https://dev.to/asmit2952">
+	</a> -->
+<!-- 	<a href="https://dev.to/asmit2952">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-	</a>
-  <a href="https://asmit2952.github.io/">
+	</a> -->
+<!--   <a href="https://asmit2952.github.io/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
-	</a>
-  <a href="mailto:asmitbm2952002@gmail.com">
+	</a> -->
+  <a href="mailto:devkantgorai1@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
@@ -43,19 +43,12 @@
 
 ### 👉 Programming languages
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-  &emsp;
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
@@ -73,9 +66,21 @@
 
 ### 👉 Frontend Development
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+![Javscript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Matlab](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Java](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white)
+![Java](https://img.shields.io/badge/React%20Table-013243?style=flat-square&logo=React%20Table&logoColor=white)
+![Java](https://img.shields.io/badge/ReactiveX-013243?style=flat-square&logo=ReactiveX&logoColor=white)
+![Java](https://img.shields.io/badge/Redux-013243?style=flat-square&logo=Redux&logoColor=white)
+![Java](https://img.shields.io/badge/Redux-Saga-013243?style=flat-square&logo=Redux-Saga&logoColor=white)
+
+### 👉 Backend Development 
+![Arduino](https://img.shields.io/badge/Django-00979D?style=flat-square&logo=Django&logoColor=white)
+![Rapspberry Pi](https://img.shields.io/badge/Flask-C51A4A?style=flat-square&logo=Flask&logoColor=white)
+![C++](https://img.shields.io/badge/FastAPI-00599C?style=flat-square&logo=FastAPI&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
@@ -85,7 +90,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
-
 
 
 ### 👉 Databases & Cloud Hosting
@@ -104,19 +108,7 @@
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 
   
-### 👉Graphic Designing
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+
 
 
 ### 👉 Software & Tools
