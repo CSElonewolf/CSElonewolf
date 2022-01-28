@@ -9,12 +9,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the Government College of Engineering and Textile Technology,Berhampore.\
+🌱 &nbsp;I'm on track for learning more about Full stack Web Development, Systems Design,Devops and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue technical Blog Writing as hobbies/side hustles and like to mentor juniors.\
+💬 &nbsp;Feel free to reach out to me for collaboration, or just for some interesting discussion over DS & Algorithm questions.\
+✉️ &nbsp;You can shoot me an email at devkantgorai1@gmail.com or devkant.gorai@gcettb.ac.in ! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1KlFoPZfKkNO3X5AKYaBz_3r-LCd5XhoV/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### 🤝 &nbsp;Find out more about me & feel free to connect with me here:
 
