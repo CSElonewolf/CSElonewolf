@@ -1,19 +1,18 @@
-# Under Construction 🚧 🏗, I am still building it 👷. Social media links may lead to a wrong page.
-![Aditya Vikram Singh Banner](https://ps.w.org/easy-under-construction/assets/banner-772x250.png?rev=2417171)
+![Devkant Gorai Banner](https://ps.w.org/easy-under-construction/assets/banner-772x250.png?rev=2417171)
 <h1 align="center">Hi , I'm Devkant Gorai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336B9F7&size=22&duration=5500&center=true&vCenter=true&multiline=true&width=650&height=200&lines=Computer+Science+Engineering+undergrad;Django+%26+Django+REST+Developer+;Data+Structure+%26+Algorithm;Python+%7C+Java+%7C+JavaScript+;Always+Hustling+with+something+;Currently+working+on+Django+%26+Django+REST+Projects+"></a>
+<p align="center" style="user-select: none;">
+<img  src="https://readme-typing-svg.herokuapp.com?color=%2336B9F7&size=22&duration=5500&center=true&vCenter=true&multiline=true&width=650&height=200&lines=Computer+Science+Engineering+undergrad;Django+%26+Django+REST+Developer+;Data+Structure+%26+Algorithm;Python+%7C+Java+%7C+JavaScript+;Always+Hustling+with+something+;Currently+working+on+Django+%26+Django+REST+Projects+">
 </p>
 <hr/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Government College of Engineering and Textile Technology,Berhampore.\
-🌱 &nbsp;I'm on track for learning more about Full stack Web Development, Systems Design, Devops and Cloud Architecture.\
+💡 &nbsp; I'm Currectly working as a <b>Full Stack Developer intern</b> at <b>National Programme on Technology Enhanced Learning(NPTEL, India)</b> \
+🎓 &nbsp;I'm graduating with B.tech Computer Science and Engineering from Government College of Engineering and Textile Technology, Berhampore in <b>2023</b>.\
+🌱 &nbsp;I'm on track for learning more about <b>Full stack Web Development, Systems Design, Devops and Cloud Architecture</b>.\
 ✍️ &nbsp;In my free time, I pursue technical Blog Writing as hobbies/side hustles and like to mentor juniors.\
 💬 &nbsp;Feel free to reach out to me for collaboration, or just for some interesting discussion over DS & Algorithm questions.\
-✉️ &nbsp;You can shoot me an email at devkantgorai1@gmail.com or devkant.gorai@gcettb.ac.in ! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at devkantgorai1@gmail.com ! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1KlFoPZfKkNO3X5AKYaBz_3r-LCd5XhoV/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### 🤝 &nbsp;Find out more about me & feel free to connect with me here:
@@ -45,13 +44,10 @@
 ### 👉 Programming languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Javscript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 
-<span>
+<!-- <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
@@ -63,7 +59,7 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
-  </span>
+  </span> -->
 
 ### 👉 Frontend Development
 
@@ -71,64 +67,42 @@
 ![Javscript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Matlab](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Java](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white)
-![Java](https://img.shields.io/badge/React%20Table-013243?style=flat-square&logo=React%20Table&logoColor=white)
-![Java](https://img.shields.io/badge/ReactiveX-013243?style=flat-square&logo=ReactiveX&logoColor=white)
-![Java](https://img.shields.io/badge/Redux-013243?style=flat-square&logo=Redux&logoColor=white)
-![Java](https://img.shields.io/badge/Redux-Saga-013243?style=flat-square&logo=Redux-Saga&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
+<!-- ![Recat Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white)
+![React Table ](https://img.shields.io/badge/React%20Table-013243?style=flat-square&logo=React%20Table&logoColor=white)
+![Reactive](https://img.shields.io/badge/ReactiveX-013243?style=flat-square&logo=ReactiveX&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-013243?style=flat-square&logo=Redux&logoColor=white)
+![Redux-saga](https://img.shields.io/badge/Redux-Saga-013243?style=flat-square&logo=Redux-Saga&logoColor=white) -->
 
 ### 👉 Backend Development 
 ![Arduino](https://img.shields.io/badge/Django-00979D?style=flat-square&logo=Django&logoColor=white)
 ![Rapspberry Pi](https://img.shields.io/badge/Flask-C51A4A?style=flat-square&logo=Flask&logoColor=white)
-![C++](https://img.shields.io/badge/FastAPI-00599C?style=flat-square&logo=FastAPI&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00599C?style=flat-square&logo=FastAPI&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 
 
 ### 👉 Databases & Cloud Hosting
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+![MySQl](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Postgres SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Datastore](https://img.shields.io/badge/Datastore-777BB4?style=flat-square&logo=Google%20Cloud&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=SQLite&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
 
   
 
-
-
 ### 👉 Software & Tools
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
-
-
-<br/>
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-00979D?style=flat-square&logo=Google%20Colab&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
