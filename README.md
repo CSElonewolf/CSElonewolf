@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/CSElonewolf/CSElonewolf/main/github%20banner.png" height="400" style="width:100%"/>
-<h1 align="center">Hi , I'm Devkant Gorai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Devkant Gorai, SDE @ IITM </h1>
 <p align="center" style="user-select: none;">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336B9F7&size=22&duration=5500&center=true&vCenter=true&multiline=true&width=650&height=200&lines=Computer+Science+Engineering+undergrad;Django+%26+Django+REST+Developer+;Data+Structure+%26+Algorithm;Python+%7C+Java+%7C+JavaScript+;Always+Hustling+with+something+;Currently+working+on+Django+%26+Django+REST+Projects+" />
 </p>
@@ -7,12 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm Currectly working as a <b>Full Stack Developer intern</b> at <b>National Programme on Technology Enhanced Learning(NPTEL, India)</b> \
-🎓 &nbsp;I'm graduating with B.tech Computer Science and Engineering from Government College of Engineering and Textile Technology, Berhampore in <b>2023</b>.\
+💡 &nbsp; I'm Currectly working as a <b>Full Stack Developer Python(Flask), Angular, GCP</b> at <b> Indian Institute of Technology, Madras </b> \
+🎓 &nbsp;I have graduated with B.tech Computer Science and Engineering from Government College of Engineering and Textile Technology, Berhampore in <b>2023</b>.\
 🌱 &nbsp;I'm on track for learning more about <b>Full stack Web Development, Systems Design, Devops and Cloud Architecture</b>.\
 ✍️ &nbsp;In my free time, I pursue technical Blog Writing as hobbies/side hustles and like to mentor juniors.\
 💬 &nbsp;Feel free to reach out to me for collaboration, or just for some interesting discussion over DS & Algorithm questions.\
-✉️ &nbsp;You can shoot me an email at devkantgorai1@gmail.com ! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at devkantgorai1@gmail.com ! Being a FTE at IITM it might take a while to respond back\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1KlFoPZfKkNO3X5AKYaBz_3r-LCd5XhoV/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### 🤝 &nbsp;Find out more about me & feel free to connect with me here:
